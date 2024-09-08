@@ -1,4 +1,4 @@
-#Hi there, I'm Bharath Akurathi!! 👋
+Hi there, I'm Bharath Akurathi!! 👋
 -----------------------------------------------------------------------------
 I'm a Computer Science student at JNTUH with a deep passion for technology, coding, Artificial Intelligence (AI), and Machine Learning (ML).
 
