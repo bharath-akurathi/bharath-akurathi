@@ -28,10 +28,9 @@ I'm a Computer Science student at JNTUH with a deep passion for technology, codi
 
 🛠️ Tech Stack
 ----------
-- Languages: Python, C, Java, HTML, CSS, JavaScript
+- Languages: Python, C, Java, HTML, CSS, JavaScript, R
 - Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn
 - Tools: Git, Docker, Jupyter, VS Code
-- Databases: MySQL, MongoDB
 - Operating Systems: Windows, macOS, Linux
 
 
