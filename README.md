@@ -1,52 +1,93 @@
-Hi there, I'm Bharath Akurathi!! 👋
------
-I'm a Computer Science student at JNTUH with a deep passion for technology, coding, Artificial Intelligence (AI), and Machine Learning (ML).
+# 👋 Hi there, I'm Bharath Akurathi!
 
-🎓 Currently a sophomore studying Computer Science at JNTUH.
+## 🧑‍💻 About Me  
+I'm a Computer Science and Engineering student at JNTUH University College of Engineering (Integrated B.Tech + M.Tech), passionate about creating intelligent, scalable software using AI and full-stack development. I enjoy working on impactful solutions and contributing to tech communities like CS50.
 
-🌟 Won a special prize in a recent hackathon!
+- 🎓 Sophomore CSE student @ JNTUH  
+- 🧠 AI/ML enthusiast focused on ethical and impactful applications  
+- 🏆 Hackathon winner & coding contest participant  
+- 💬 Active member of CS50 and college tech clubs  
+- 📚 Lifelong learner, always exploring new technologies
 
-👥 Active member of several college clubs and the CS50 community.
+---
 
-🤖 Passionate about Artificial Intelligence and Machine Learning.
+## 🏆 Achievements  
 
-🔭 Currently working on an exciting project: Virtual Therapist project, leveraging AI to provide mental health support. 
+- 🥈 Second Runner-up – VJ Hackathon (Fact-Checking AI System)  
+- 🏅 Appreciation Prize – Hack Your Path 5.0 (Virtual Therapist)  
+- 🥇 First Prize – Codeathon (JNTUH)  
+- 👨‍💻 Participated in inter-college coding contests and technical quizzes
 
-🧠 Contributed to an AI-Driven Research Engine for Commercial Courts.
+---
 
-💡 Interested in software development, data science, artificial intelligence, machine learning, and exploring innovative solutions.
+## 🚀 Projects & Contributions  
 
-📚 Lifelong learner, always diving into new technologies and enhancing my skills.
+- 🧠 Virtual Therapist  
+  AI-powered assistant using facial emotion recognition to support mental health.  
+  Tech: Python, OpenCV, ML
 
+- 🔍 Fact-Checking System  
+  Detects misinformation across formats (text, audio, image, video). I focused on AI-generated voice detection using signal processing and Transformers.  
+  Tech: Python, Tortoise TTS, Transformers
 
-💼 Projects & Contributions
---------
-- AI-Powered Fact-Checking System: Developing an advanced tool to verify web content using AI, voice detection, deepfake identification, and blockchain for secure and reliable data validation.
-- AI-Driven Research Engine for Commercial Courts: Building a powerful tool to assist in legal research and analysis using AI. This project aims to streamline legal processes and provide insightful data for commercial courts.
-- ML-based Virtual Therapist: Contributed to developing a virtual therapist that utilizes machine learning algorithms to provide mental health support, offering users personalized and data-driven guidance.
-- CS50 Course Projects: Actively working on various projects as part of the CS50 course, contributing to the vibrant CS50 community.
+- ⚖️ AI Research Engine for Commercial Courts  
+  Legal research and analysis tool to support judicial processes.  
+  Tech: Python, NLP, Regex, UI components
 
+- 💬 Healing Prediction App (CoreInt)  
+  Frontend chatbot UI for health tracking.  
+  Tech: HTML, Tailwind CSS, JavaScript
 
-🛠️ Tech Stack
-----------
-- Languages: Python, C, Java, HTML, CSS, JavaScript, R
-- Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn
-- Tools: Git, Jupyter, VS Code
-- Operating Systems: Windows, macOS, Linux
+- 📘 CS50 Projects  
+  Projects completed through Harvard’s CS50 AI course.  
+  Tech: Python, Search Algorithms, Game Logic
 
+---
 
-📈 GitHub Stats
------------
-🌱 Currently Learning
-- Advanced Machine Learning Techniques
-- Backend Development with Node.js
-- Deep Dive into random_state usage for reproducible results in data science.
+## 💻 Tech Stack
 
-📫 Let's Connect!
-------------
-- LinkedIn: https://www.linkedin.com/in/bharath-akurathi/ 
-- Email: bharathakurathi436@gmail.com 
-------------
-Feel free to reach out if you're interested in collaborating on exciting projects or just want to talk tech!
+### ✔️ Languages  
+Python, Java, JavaScript, C, R, HTML, CSS
 
-👋 Thanks for stopping by! 👋
+### ✔️ Libraries & Frameworks  
+TensorFlow, scikit-learn, OpenCV, Flask, Django, React, NLTK, Transformers
+
+### ✔️ Data Science & Analysis  
+NumPy, Pandas, Matplotlib, Seaborn
+
+### ✔️ Tools & Platforms  
+Git, GitHub, VS Code, Jupyter Notebook
+
+### ✔️ Databases  
+MySQL, NoSQL
+
+### ✔️ OS  
+Windows, Linux, macOS
+
+---
+
+## 📈 GitHub Stats
+
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath-akurathi&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-akurathi&layout=compact&theme=github_dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharath-akurathi&theme=github-dark)
+
+---
+
+## 🌱 Currently Learning
+
+- RNNs, LSTMs, GANs, Attention Mechanisms  
+- Retrieval-Augmented Generation (RAG), LLM fine-tuning  
+- React, Tailwind + React integration  
+- MLOps: Docker, FastAPI, CI/CD pipelines
+
+---
+
+## 📫 Let's Connect!
+
+- 🔗 LinkedIn: [linkedin.com/in/bharath-akurathi](https://www.linkedin.com/in/bharath-akurathi/)  
+- 📧 Email: bharathakurathi436@gmail.com
+
+---
+
+Thanks for visiting my GitHub! Feel free to connect or reach out if you'd like to collaborate on innovative projects or just chat tech.
